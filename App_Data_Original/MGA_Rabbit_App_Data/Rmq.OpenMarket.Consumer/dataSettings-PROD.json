@@ -1,0 +1,14 @@
+{
+  "DataProvider": "sqlserver",
+  "DataConnectionString": "Data Source=;Initial Catalog=MGA;Integrated Security=False;Persist Security Info=False;User ID=;Password=",
+  "RawDataSettings": {},
+  "SqlDriver": "mssql2017",
+  "Property": {
+    "CommandTimeout": "180",
+    "BatchSize": "30",
+    "BatchOrderInsert": "true",
+    "BatchOrderUpdate": "true",
+    "ShowSql": "false",
+    "FormatSql": "true"
+  }
+}

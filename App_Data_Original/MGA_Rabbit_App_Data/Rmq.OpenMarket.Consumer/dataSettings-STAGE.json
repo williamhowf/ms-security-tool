@@ -1,0 +1,14 @@
+{
+  "DataProvider": "sqlserver",
+  "DataConnectionString": "Data Source=megopolyasiastage.csmso3laq1nm.ap-southeast-1.rds.amazonaws.com,13888;Initial Catalog=MGA;Integrated Security=False;Persist Security Info=False;User ID=rmqMKT0104;Password=zn2YmzLWYJbQdU3UUGJ3qtE4S",
+  "RawDataSettings": {},
+  "SqlDriver": "mssql2017",
+  "Property": {
+    "CommandTimeout": "180",
+    "BatchSize": "30",
+    "BatchOrderInsert": "true",
+    "BatchOrderUpdate": "true",
+    "ShowSql": "false",
+    "FormatSql": "true"
+  }
+}

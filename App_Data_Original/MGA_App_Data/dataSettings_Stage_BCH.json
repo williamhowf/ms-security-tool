@@ -1,0 +1,5 @@
+{
+  "DataProvider": "sqlserver",
+  "DataConnectionString": "Data Source=megopolyasiastage.csmso3laq1nm.ap-southeast-1.rds.amazonaws.com,13888;Initial Catalog=MGA;Integrated Security=False;Persist Security Info=False;User ID=mgaWT0104;Password=R3dDfcS6SyHN9kLWvmNcUB4PF",
+  "RawDataSettings": {}
+}
